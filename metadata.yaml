@@ -1,5 +1,5 @@
 _repo: Folk-Tales-from-the-Russian_12851
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Perkins, Lucy Fitch
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1216'
     url: http://www.gutenberg.org/2009/agents/1216
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: De Blumenthal, Kalamatiano
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '39947'
     url: http://www.gutenberg.org/2009/agents/39947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12851#Folk-Tales-from-the-Russian
 gutenberg_issued: '2004-07-08'
 gutenberg_type: Text
 identifiers:
